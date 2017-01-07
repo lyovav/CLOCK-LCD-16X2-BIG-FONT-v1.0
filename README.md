@@ -14,6 +14,6 @@ https://ru.aliexpress.com/item/Free-Shipping-IIC-I2C-Interface-LCD1602-2004-LCD-
 https://ru.aliexpress.com/item/5pcs-lot-IIC-I2C-1602-LCD-module-provides-libraries-with-demo-code-Free-shipping/32246903105.html?spm=2114.10010208.1000016.1.LWuWxy&isOrigTitle=true
 
 
-any arduino like Nano v3.0 
+any arduino like Nano v3.0 or 
 
 https://ru.aliexpress.com/item/ProMini-ATmega328P-5V-Compatible-for-Arduino-Pro-Mini/32525859745.html?spm=2114.13010708.0.0.76R0cT&detailNewVersion=&categoryId=400103
