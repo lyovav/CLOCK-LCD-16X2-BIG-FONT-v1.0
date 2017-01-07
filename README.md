@@ -1,6 +1,7 @@
 # CLOCK LCD 16X2 BIG FONT V1.0
 
 Modules and components:
+
 DS3231
 
 https://ru.aliexpress.com/item/DS3231-AT24C32-IIC-Module-Precision-Clock-Module-with-out-battary/32275534578.html?spm=2114.13010708.0.0.tOPa5K&detailNewVersion=&categoryId=400103
