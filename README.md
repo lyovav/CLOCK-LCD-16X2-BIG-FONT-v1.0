@@ -1,4 +1,4 @@
-# CLOCK-LCD-16X2-BIG-FONT-V1.0
+# CLOCK LCD 16X2 BIG FONT V1.0
 
 Modules and components:
 DS3231
